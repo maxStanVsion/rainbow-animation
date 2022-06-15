@@ -53,7 +53,7 @@ input {
   outline: none;
 }
 
-/* Tolstoy Animation Variable */
+/* Tolstoy Animation Variables */
 :root {
   /* Animation variables */
   --logo-animation-duration: 1.5s;
